@@ -1,7 +1,6 @@
 Project Pure Land: A Sanctuary of Uncorrupted Truth
 
 Version: 1.0.0 (Draft)
-Repository: [Your GitHub Link]
 License: MIT / Creative Commons
 
 Abstract
@@ -42,11 +41,5 @@ Permitted: Basic computational aids (spell checkers, hardware-level ISP noise re
 Chain of Custody: Original hardware signatures (e.g., C2PA metadata) must remain intact from the point of capture to Council review.
 
 
-允许使用： 基础计算辅助工具（如拼写检查器、硬件级别的ISP降噪）。
-
-证据链： 原始硬件签名（如C2PA元数据）从采集端到委员会审查端必须保持绝对完整。
-
-5. Call to Action | 结语与号召
-[EN] We are standing at the edge of the Information Singularity. Before the synthetic completely overshadows the real, we must build an ark for human truth. We invite cryptography engineers, historians, system architects, and visionaries to join the Pure Land Project.
-
-[ZH] 我们正站在信息奇点（Information Singularity）的边缘。在合成数据彻底掩盖真实之前，我们必须为人类的真相建造一艘方舟。我们诚邀密码学工程师、历史学家、系统架构师和有识之士加入净土计划。
+5. Call to Action
+We are standing at the edge of the Information Singularity. Before the synthetic completely overshadows the real, we must build an ark for human truth. We invite cryptography engineers, historians, system architects, and visionaries to join the Pure Land Project.
